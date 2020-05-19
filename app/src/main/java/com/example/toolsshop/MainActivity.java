@@ -29,9 +29,7 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                     break;
                  } case 1:{
-                    Intent intent = new Intent(getApplicationContext(), DrillCategoryActivity.class);
-                    startActivity(intent);
-                    break;
+                    // TODO: 19.05.2020
                 }
             }
 
